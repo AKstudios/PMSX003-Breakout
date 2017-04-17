@@ -540,11 +540,12 @@ https://github.com/akstudios</description>
 <sheets>
 <sheet>
 <plain>
+<text x="-66.04" y="58.42" size="1.778" layer="97" font="vector">PMS5003/7003 Breakout</text>
 </plain>
 <instances>
 <instance part="JP1" gate="A" x="-63.5" y="35.56" rot="R180"/>
 <instance part="U$1" gate="G$1" x="10.16" y="25.4"/>
-<instance part="U$2" gate="G$1" x="-15.24" y="10.16"/>
+<instance part="U$2" gate="G$1" x="-17.78" y="60.96"/>
 </instances>
 <busses>
 </busses>
